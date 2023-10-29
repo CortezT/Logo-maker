@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "@svgdotjs/svg.js": "^3.2.0",
-    "readline-sync": "^1.4.10"
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
